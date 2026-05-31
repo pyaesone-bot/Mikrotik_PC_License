@@ -1,0 +1,3 @@
+
+MHM-2026-CUSTOMER1,Pro,2026-12-31,a1b2c3d4e5f6a7b8
+#sig:6Iz9BQj7DQuiMry4Uxw9gEOkcuedrUgmUU4vpcMzlOJEylfDRYB3BTLPBoonaeaf0VMH5+bkV9+ibZiqlI0wCw==
